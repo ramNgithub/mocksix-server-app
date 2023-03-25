@@ -21,6 +21,20 @@
         }
       
     ],
+    "movies": [
+      
+      {
+        "id" : 1,
+        "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+        "title" : "Doctor Strange in the Multiverse of Madness",
+        "director" : "Sam Raimi",
+        "year" : 2022,
+        "genre" : "Action",
+        "IMDB_Rating" : 6.8,
+        "ticket" : 200
+      }
+    
+  ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
     ],
